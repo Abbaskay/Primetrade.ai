@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Trading Bot](https://img.shields.io/badge/Trading-Bot-orange)
+![Binance API](https://img.shields.io/badge/Binance-API-yellow)
+![Automation](https://img.shields.io/badge/Automation-System-red)
 # Primetrade.ai
 
 ## Project Overview
